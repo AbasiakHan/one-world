@@ -1,0 +1,20 @@
+{
+  "name": "abskn",
+  "version": "1.0.0",
+  "description": "Abasiakan Hanson",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  },
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ".gitignore"
+  },
+  "keywords": [],
+  "author": "Abasiakan Hanson",
+  "license": "ISC"
+}
